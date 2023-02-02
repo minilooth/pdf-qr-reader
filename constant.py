@@ -1,7 +1,4 @@
 # declare constants
-output_dir = '/output'
-detected_prefix = '_detected'
-file_delimiter = '.'
 data_encoding = 'utf-8'
 current_qr_version = 'v2'
 qr_version_json_path = '$.version'
